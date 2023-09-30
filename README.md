@@ -21,6 +21,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<p align="left">
+<!-- <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/badr-el-khiri-20800b24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/badr-el-khiri-20800b24a/" height="30" width="40" /></a>
-</p>
+</p> -->
