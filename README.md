@@ -10,7 +10,6 @@
 
 I'm a **Full-Stack Developer** based in **Casablanca, Morocco** with a passion for building efficient, user-friendly web applications. I enjoy tackling complex problems and turning them into simple, elegant solutions.
 
----
 
 ### 🛠️ Tech Stack
 
