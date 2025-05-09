@@ -84,6 +84,16 @@ I'm a **Full-Stack Developer** based in **Casablanca, Morocco** with a passion f
 
 <div align="center">
   
-  ### Thanks for visiting! 👨‍💻
-  
+### Thanks for visiting! 👨‍💻
+  <p>"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." – Patrick McKenzie</p>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Made with Markdown" />
+  <details>
+    <summary><b>🌟 Fun Fact</b></summary>
+    <br>
+    <p>The first website ever created is still online! You can visit it at <a href="http://info.cern.ch/hypertext/WWW/TheProject.html" target="_blank">http://info.cern.ch</a></p>
+  </details>
+  <a href="https://github.com/badrelkhiri?tab=repositories">
+    <img src="https://img.shields.io/badge/Check%20out%20my%20projects-4B275F?style=for-the-badge&logo=github&logoColor=white" alt="My Projects" />
+  </a>
 </div>
