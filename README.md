@@ -4,12 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6FA4FC&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Problem+Solver;Passionate+Coder" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div style="position: relative; z-index: 100; float: right;">
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
 
 ## Hello there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28px" alt="waving hand">
 
 I'm a **Full-Stack Developer** based in **Casablanca, Morocco** with a passion for building efficient, user-friendly web applications. I enjoy tackling complex problems and turning them into simple, elegant solutions.
 
+---
 
 ### 🛠️ Tech Stack
 
